@@ -38,7 +38,7 @@ N.B: It supports only in android version 5.0 or later.
 ## Screenshots
 
 
-Login, Signup and Forgot Password
+Login, Signup and Forgot Password UI
 <p float="left">
   
   <img src="https://user-images.githubusercontent.com/77990293/162065610-14ce9e66-d659-4f44-bcdb-6b1bed2abf6e.jpg" width="150" height="300">
